@@ -4,4 +4,4 @@
 [MyResume](Resume.pdf)
 [MyGitHub](https://www.github.com/nataliabdallah)
 [MyLinkedIn](https://www.linkedin.com/in/nataliabdallah/)
-[MySite](natali.co.site)
+[MySite](https://natali.co.site)
