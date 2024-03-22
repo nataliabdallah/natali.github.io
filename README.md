@@ -1,7 +1,7 @@
-<img width="1728" alt="GetInTouch" src="https://github.com/nataliabdallah/natali.github.io/assets/143548087/6634188a-a657-4fc8-8596-a91451294635">
 
+<img width="1728" alt="GetInTouch" src="https://github.com/nataliabdallah/natali.github.io/assets/143548087/7fcc333c-35d1-423d-b509-2011bc48ae4d">
 
 [MyResume](Resume.pdf)
 [MyGitHub](https://www.github.com/nataliabdallah)
 [MyLinkedIn](https://www.linkedin.com/in/nataliabdallah/)
-[MySite](https://natali.co.site)
+[natali.co.site](https://natali.co.site)
